@@ -1,4 +1,4 @@
 Distributor ID:	Ubuntu
-Description:	Ubuntu 18.04.5 LTS
-Release:	18.04
-Codename:	bionic
+Description:	Ubuntu 22.04.1 LTS
+Release:	22.04
+Codename:	jammy
