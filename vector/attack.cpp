@@ -1,6 +1,8 @@
 #include "stripes.hpp"
 #include "pfc.h"
 #include <stdio.h>
+#include <stdlib.h>
+#include <immintrin.h>
 #ifdef _MSC_VER // ms visual c
     #include <intrin.h>
     #pragma optimize("gt",on)
@@ -11,6 +13,9 @@
 #ifndef SAMPLES
 #define SAMPLES 1000
 #endif
+
+char *mysecret = "I see NetSpectre via performance counter.";
+__m256i v;
 
 typedef int func(void);
 
@@ -52,6 +57,10 @@ __attribute__ ((noinline))
 __attribute__ ((aligned(1024)))
 void tiger_0_copy(){
     STRIPES_0;
+}
+
+void netspectre(){
+    v = _mm256_loadu_si256((__m256i *)secret);
 }
 
 #define t0 ((uint64_t)&tiger_0)
@@ -134,7 +143,8 @@ void run_victim(uint16_t a_temp, uint64_t b1, uint64_t b2){
 
       PFC_TIC;
 
-      tiger_0();  // Analyze this to see what was loaded into micro-op cache by malicious call
+      //tiger_0();  // Analyze this to see what was loaded into micro-op cache by malicious call
+      netspectre();
 
       PFC_TOC;
 

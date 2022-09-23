@@ -1,43 +1,43 @@
 Compiled with: 
 
 Case: Secret = 1, Training_bounds = 400, Malicious_bounds = 400
-                  37	FRONTEND_RETIRED.L1I_MISS
-               80077	IDQ.DSB_UOPS
-              530594	CORE_POWERLVL0_TURBO_LICENSE
-              133925	IDQ.MITE_UOPS
-              214002	TOTAL_UOPS
+                  12	FRONTEND_RETIRED.L1I_MISS
+               79805	IDQ.DSB_UOPS
+                   0	CORE_POWERLVL2_TURBO_LICENSE
+              134209	IDQ.MITE_UOPS
+              214014	TOTAL_UOPS
 
 Case: Secret = 0, Training_bounds = 400, Malicious_bounds = 400
-                 106	FRONTEND_RETIRED.L1I_MISS
-              150938	IDQ.DSB_UOPS
-              586068	CORE_POWERLVL0_TURBO_LICENSE
-               63326	IDQ.MITE_UOPS
-              214264	TOTAL_UOPS
+                 117	FRONTEND_RETIRED.L1I_MISS
+              127139	IDQ.DSB_UOPS
+                  23	CORE_POWERLVL2_TURBO_LICENSE
+               87601	IDQ.MITE_UOPS
+              214740	TOTAL_UOPS
 
 Case: Secret = 1, Training_bounds = 400, Malicious_bounds = 9001
-                 228	FRONTEND_RETIRED.L1I_MISS
-               83164	IDQ.DSB_UOPS
-              679671	CORE_POWERLVL0_TURBO_LICENSE
-              130898	IDQ.MITE_UOPS
-              214062	TOTAL_UOPS
+                 161	FRONTEND_RETIRED.L1I_MISS
+               85438	IDQ.DSB_UOPS
+                  23	CORE_POWERLVL2_TURBO_LICENSE
+              129192	IDQ.MITE_UOPS
+              214630	TOTAL_UOPS
 
 Case: Secret = 0, Training_bounds = 400, Malicious_bounds = 9001
-                 300	FRONTEND_RETIRED.L1I_MISS
-               97235	IDQ.DSB_UOPS
-              690165	CORE_POWERLVL0_TURBO_LICENSE
-              117538	IDQ.MITE_UOPS
-              214773	TOTAL_UOPS
+                 345	FRONTEND_RETIRED.L1I_MISS
+              116812	IDQ.DSB_UOPS
+                   3	CORE_POWERLVL2_TURBO_LICENSE
+               98432	IDQ.MITE_UOPS
+              215244	TOTAL_UOPS
 
 Case: Secret = 1, Training_bounds = 9001, Malicious_bounds = 9001
-                 347	FRONTEND_RETIRED.L1I_MISS
-               96539	IDQ.DSB_UOPS
-              709948	CORE_POWERLVL0_TURBO_LICENSE
-              118364	IDQ.MITE_UOPS
-              214903	TOTAL_UOPS
+                 141	FRONTEND_RETIRED.L1I_MISS
+              127010	IDQ.DSB_UOPS
+                   4	CORE_POWERLVL2_TURBO_LICENSE
+               88078	IDQ.MITE_UOPS
+              215088	TOTAL_UOPS
 
 Case: Secret = 0, Training_bounds = 9001, Malicious_bounds = 9001
-                 128	FRONTEND_RETIRED.L1I_MISS
-              123078	IDQ.DSB_UOPS
-              653497	CORE_POWERLVL0_TURBO_LICENSE
-               91725	IDQ.MITE_UOPS
-              214803	TOTAL_UOPS
+                 115	FRONTEND_RETIRED.L1I_MISS
+              128822	IDQ.DSB_UOPS
+                  19	CORE_POWERLVL2_TURBO_LICENSE
+               85934	IDQ.MITE_UOPS
+              214756	TOTAL_UOPS

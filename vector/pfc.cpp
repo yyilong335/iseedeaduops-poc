@@ -67,7 +67,7 @@ struct pfc_config {
 };
 struct pfc_config pfc_configs[1000] = {{0}};
 size_t n_pfc_configs = 0;
-char pfc_config_file_content_hardcoded[1024] = "C6.01.CTR=0.MSR_PF=0x12 FRONTEND_RETIRED.L1I_MISS\n79.08 IDQ.DSB_UOPS\n28.07 CORE_POWERLVL0_TURBO_LICENSE\n79.04 IDQ.MITE_UOPS";
+char pfc_config_file_content_hardcoded[1024] = "C6.01.CTR=0.MSR_PF=0x12 FRONTEND_RETIRED.L1I_MISS\n79.08 IDQ.DSB_UOPS\n28.18 CORE_POWERLVL2_TURBO_LICENSE\n79.04 IDQ.MITE_UOPS"; // update pfc here
 
 
 struct msr_config {
