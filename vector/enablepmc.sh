@@ -14,5 +14,18 @@ chmod +s $(which rdmsr)
 # make sure kernel module is enabled
 modprobe msr
 
-#enable rdpmc instruction
+# enable rdpmc instruction
 echo 2 > /sys/bus/event_source/devices/cpu/rdpmc
+
+# disable smt
+echo off > /sys/devices/system/cpu/smt/control
+
+# disable hyper-threading
+for i in $(seq 1 255)
+do
+  if [ -d "/sys/devices/system/cpu/cpu${i}" ]; then
+    echo 0 > "$cpu/online"
+  fi
+done
+
+echo 1 > /sys/devices/system/cpu/intel_pstate/no_turbo

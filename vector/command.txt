@@ -1,0 +1,5 @@
+g++ lfb.cpp pfc.cpp -o lfb -g -no-pie
+
+./lfb
+
+objdump -d lfb > output

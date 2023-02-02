@@ -1,0 +1,26 @@
+************************************************************************************************************************
+Secret: 
+1101011110110111010111100011000000101010001101000011111110001001011110101011111111000011011111010100
+************************************************************************************************************************Reading 16 bytes:
+1Reading at malicious_x = 0x20140... Time : 305
+1Reading at malicious_x = 0x20141... Time : 328
+0Reading at malicious_x = 0x20142... Time : 284
+1Reading at malicious_x = 0x20143... Time : 312
+0Reading at malicious_x = 0x20144... Time : 286
+1Reading at malicious_x = 0x20145... Time : 309
+1Reading at malicious_x = 0x20146... Time : 329
+1Reading at malicious_x = 0x20147... Time : 291
+1Reading at malicious_x = 0x20148... Time : 302
+0Reading at malicious_x = 0x20149... Time : 301
+1Reading at malicious_x = 0x2014a... Time : 307
+1Reading at malicious_x = 0x2014b... Time : 281
+0Reading at malicious_x = 0x2014c... Time : 291
+1Reading at malicious_x = 0x2014d... Time : 290
+1Reading at malicious_x = 0x2014e... Time : 319
+0Reading at malicious_x = 0x2014f... Time : 287
+
+avg0 : 
+
+
+avg0 : 251
+avg1 : 282

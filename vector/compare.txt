@@ -1,0 +1,29 @@
+  4017ba:	0f 01 f9             	rdtscp 
+  4017bd:	89 ce                	mov    %ecx,%esi
+  4017bf:	48 8b 4c 24 38       	mov    0x38(%rsp),%rcx
+  4017c4:	89 31                	mov    %esi,(%rcx)
+  4017c6:	48 c1 e2 20          	shl    $0x20,%rdx
+  4017ca:	48 09 d0             	or     %rdx,%rax
+  4017cd:	90                   	nop
+  4017ce:	48 89 44 24 18       	mov    %rax,0x18(%rsp)
+  4017d3:	bb 01 00 00 00       	mov    $0x1,%ebx
+  4017d8:	0f b6 05 21 51 00 00 	movzbl 0x5121(%rip),%eax        # 406900 <array2>
+  4017df:	88 44 24 02          	mov    %al,0x2(%rsp)
+  4017e3:	0f b6 c3             	movzbl %bl,%eax
+  4017e6:	c1 e0 09             	shl    $0x9,%eax
+  4017e9:	48 98                	cltq   
+  4017eb:	48 8d 15 0e 51 00 00 	lea    0x510e(%rip),%rdx        # 406900 <array2>
+  4017f2:	0f b6 04 10          	movzbl (%rax,%rdx,1),%eax
+  4017f6:	88 44 24 03          	mov    %al,0x3(%rsp)
+  4017fa:	0f ae f0             	mfence 
+  4017fd:	90                   	nop
+  4017fe:	48 8d 44 24 04       	lea    0x4(%rsp),%rax
+  401803:	48 89 44 24 40       	mov    %rax,0x40(%rsp)
+  401808:	0f 01 f9             	rdtscp 
+
+time1 = _rdtscp(&junk);
+temp = 1;
+uint8_t x0 = array2[temp * 512 * 0];
+uint8_t x1 = array2[temp * 512 * 1];
+_mm_mfence();
+time2 = _rdtscp(&junk);

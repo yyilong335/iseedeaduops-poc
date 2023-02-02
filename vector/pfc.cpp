@@ -67,7 +67,7 @@ struct pfc_config {
 };
 struct pfc_config pfc_configs[1000] = {{0}};
 size_t n_pfc_configs = 0;
-char pfc_config_file_content_hardcoded[1024] = "C6.01.CTR=0.MSR_PF=0x12 FRONTEND_RETIRED.L1I_MISS\n79.08 IDQ.DSB_UOPS\n28.18 CORE_POWERLVL2_TURBO_LICENSE\n79.04 IDQ.MITE_UOPS"; // update pfc here
+char pfc_config_file_content_hardcoded[1024] = "48.02 L1D_PEND_MISS.FB_FULL\nD1.40 MEM_LOAD_RETIRED.FB_HIT\nD1.08 MEM_LOAD_RETIRED.L1_MISS\nD1.01 MEM_LOAD_RETIRED.L1_HIT\n"; // update pfc here
 
 
 struct msr_config {
@@ -420,7 +420,7 @@ void pfc_print(){
         val = pfc_mem[i];
         cout << right << setw(20) << val << "\t" << config.description << endl;
     }
-    cout << right << setw(20) << pfc_mem[1] + pfc_mem[3] << "\tTOTAL_UOPS" << endl;
+    //cout << right << setw(20) << pfc_mem[1] + pfc_mem[3] << "\tTOTAL_UOPS" << endl;
 }
 
 void pfc_setup(){

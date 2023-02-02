@@ -1,5 +1,4 @@
 #pragma GCC optimize("O0","unroll-loops","omit-frame-pointer","inline") //Optimization flags
-#pragma GCC option("arch=native","tune=native","no-zeroupper") //Enable AVX
 #pragma GCC target("avx", "avx2", "sse", "sse2", "sse3", "ssse3")  //Enable AVX
 #include <stdio.h>
 #include <stdlib.h>
@@ -20,4 +19,4 @@ int main(){
     printf("\n");
     return 0;
 }
-// gcc -march=native -fopt-info-vec-optimized test.cpp -o test
+// gcc -fopt-info-vec-optimized test.cpp -o test

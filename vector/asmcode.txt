@@ -1,0 +1,60 @@
+vmovdqa	v2(%rip), %ymm0
+	vmovdqa	v1(%rip), %ymm1
+	vmovdqa	%ymm1, -64(%rsp)
+	vmovdqa	%ymm0, -32(%rsp)
+	vmovdqa	-64(%rsp), %ymm1
+	vmovdqa	-32(%rsp), %ymm0
+	vpand	%ymm0, %ymm1, %ymm0
+	vmovdqa	%ymm0, v3(%rip)
+
+
+vmovdqa	v2(%rip), %ymm0
+	vmovdqa	v1(%rip), %ymm1
+	vmovdqa	%ymm1, -64(%rsp)
+	vmovdqa	%ymm0, -32(%rsp)
+	vmovdqa	-64(%rsp), %ymm1
+	vmovdqa	-32(%rsp), %ymm0
+	vpand	%ymm0, %ymm1, %ymm0
+	vmovdqa	%ymm0, v3(%rip)
+
+_Z10netspectrem:
+.LFB4388:
+	.cfi_startproc
+	endbr64
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	movq	%rsp, %rbp
+	.cfi_def_cfa_register 6
+	andq	$-32, %rsp
+	movq	%rdi, -72(%rsp)
+	vmovdqa	v2(%rip), %ymm0
+	vmovdqa	v1(%rip), %ymm1
+	vmovdqa	%ymm1, -64(%rsp)
+	vmovdqa	%ymm0, -32(%rsp)
+	vmovdqa	-64(%rsp), %ymm1
+	vmovdqa	-32(%rsp), %ymm0
+	vpand	%ymm0, %ymm1, %ymm0
+	vmovdqa	%ymm0, v3(%rip)
+	nop
+	leave
+	.cfi_def_cfa 7, 8
+	ret
+	.cfi_endproc
+
+_Z10netspectrem:
+.LFB4388:
+	.cfi_startproc
+	endbr64
+	movq	%rdi, -8(%rsp)
+	vmovdqa	v2(%rip), %ymm0
+	vmovdqa	v1(%rip), %ymm1
+	vmovdqa	%ymm1, -64(%rsp)
+	vmovdqa	%ymm0, -32(%rsp)
+	vmovdqa	-64(%rsp), %ymm1
+	vmovdqa	-32(%rsp), %ymm0
+	vpand	%ymm0, %ymm1, %ymm0
+	vmovdqa	%ymm0, v3(%rip)
+	nop
+	ret
+	.cfi_endproc

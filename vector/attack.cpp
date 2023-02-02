@@ -60,7 +60,8 @@ void tiger_0_copy(){
 }
 
 void netspectre(){
-    v = _mm256_loadu_si256((__m256i *)secret);
+    for (int i = 0; i < 10000; i++)
+        v = _mm256_loadu_si256((__m256i *)&mysecret[0]);
 }
 
 #define t0 ((uint64_t)&tiger_0)
