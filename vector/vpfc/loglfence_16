@@ -1,0 +1,30 @@
+======125 Access======
+
+Time : 670
+                  48	L1D_PEND_MISS.FB_FULL
+                  94	MEM_LOAD_RETIRED.FB_HIT
+                  31	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 680
+                  49	L1D_PEND_MISS.FB_FULL
+                  94	MEM_LOAD_RETIRED.FB_HIT
+                  31	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 678
+                  41	L1D_PEND_MISS.FB_FULL
+                  95	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 1006
+                  52	L1D_PEND_MISS.FB_FULL
+                  95	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 709
+                  55	L1D_PEND_MISS.FB_FULL
+                  94	MEM_LOAD_RETIRED.FB_HIT
+                  31	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 748
+
+
