@@ -70,7 +70,7 @@ void lfb_test()
             ".intel_syntax noprefix     \n"
             // "push r15   \n"
             // "mov r15, array2            \n"
-            "vpgatherdd %ymm2, [array2 + %ymm1], %ymm0 \n"
+            // "vpgatherdd %ymm2, [array2 + %ymm1], %ymm0 \n"
             "vmovdqu %ymm0, [array2 + 0x0]           \n"
             "vmovdqu %ymm0, [array2 + 0x100]    \n"
             "vmovdqu %ymm0, [array2 + 0x200]    \n"

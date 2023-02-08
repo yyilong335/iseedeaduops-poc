@@ -1,0 +1,1859 @@
+======0 Access======
+
+Time : 1382
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   2	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1417
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   2	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1411
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   2	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1415
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   2	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1415
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   2	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1408
+
+======1 Access======
+
+Time : 1465
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   3	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1676
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   3	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1644
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   3	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1647
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   3	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1648
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   3	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1616
+
+
+======2 Access======
+
+Time : 1512
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   4	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1677
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   4	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1676
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   4	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1662
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   4	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1656
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   4	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1636
+
+
+======3 Access======
+
+Time : 1421
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   5	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1588
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   5	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1577
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   5	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1584
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   5	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1589
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   5	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1551
+
+
+======4 Access======
+
+Time : 1672
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   6	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1650
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   6	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1666
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   6	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1648
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   6	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1650
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   6	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1657
+
+
+======5 Access======
+
+Time : 1424
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   7	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1599
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   7	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1591
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   7	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1594
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   7	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1604
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   7	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1562
+
+
+======6 Access======
+
+Time : 1664
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   7	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 1793
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   8	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1642
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   8	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1668
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   8	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1676
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   8	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1688
+
+
+======7 Access======
+
+Time : 1681
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   9	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1695
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   9	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1704
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   9	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1778
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   9	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1769
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                   9	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1725
+
+
+======8 Access======
+
+Time : 1656
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  10	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1818
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  10	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1652
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  10	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1674
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  10	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1703
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  10	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1700
+
+
+======9 Access======
+
+Time : 1670
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  11	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1676
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  11	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1678
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  11	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1699
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  11	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2328
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  11	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1810
+
+
+======10 Access======
+
+Time : 1559
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  10	MEM_LOAD_RETIRED.L1_MISS
+                  14	MEM_LOAD_RETIRED.L1_HIT
+Time : 1777
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  12	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1767
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  12	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1757
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  12	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1762
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  12	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1724
+
+
+======11 Access======
+
+Time : 1500
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  13	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1680
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  13	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1679
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  13	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1689
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  13	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1713
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  13	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1652
+
+
+======12 Access======
+
+Time : 1682
+                   1	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  14	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1818
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  14	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1688
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  14	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1751
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  14	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1690
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  14	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1725
+
+
+======13 Access======
+
+Time : 1596
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  15	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1808
+                   5	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  15	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1791
+                   4	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  15	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1818
+                   3	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  15	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1803
+                   4	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  15	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1763
+
+
+======14 Access======
+
+Time : 1761
+                   1	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  16	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1749
+                   9	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  16	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1799
+                   7	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  16	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1799
+                   6	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  16	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1790
+                   6	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  16	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1779
+
+
+======15 Access======
+
+Time : 1587
+                   0	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  15	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 1779
+                  14	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  17	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1838
+                  12	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  17	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1797
+                  13	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  17	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1797
+                  13	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  17	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1759
+
+
+======16 Access======
+
+Time : 1620
+                   2	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  18	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1763
+                  19	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  18	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1745
+                  18	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  18	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1755
+                  20	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  18	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1739
+                  17	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  18	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1724
+
+
+======17 Access======
+
+Time : 1658
+                   1	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  19	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1812
+                  22	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  19	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1830
+                  22	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  19	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1826
+                  21	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  19	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1840
+                  19	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  19	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1793
+
+
+======18 Access======
+
+Time : 1571
+                   0	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  19	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 1776
+                  26	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  20	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1790
+                  28	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  20	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1774
+                  25	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  20	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1749
+                  18	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  19	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1732
+
+
+======19 Access======
+
+Time : 1621
+                   5	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  21	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1863
+                  35	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  21	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1860
+                  33	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  21	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1891
+                  33	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  21	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1844
+                  32	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  21	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1815
+
+
+======20 Access======
+
+Time : 2944
+                 519	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1907
+                  45	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1913
+                  51	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1887
+                  43	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1909
+                  43	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2112
+
+
+======20 Access======
+
+Time : 1621
+                   9	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1862
+                  39	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1871
+                  32	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1872
+                  33	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1852
+                  37	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  22	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1815
+
+
+======21 Access======
+
+Time : 1605
+                  15	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  23	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1851
+                  48	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  23	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1859
+                  44	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  23	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1864
+                  46	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  23	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1846
+                  47	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  23	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1805
+
+
+======22 Access======
+
+Time : 1812
+                  45	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1846
+                  55	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1862
+                  57	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1876
+                  63	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1873
+                  55	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1853
+
+
+======22 Access======
+
+Time : 2047
+                  75	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1943
+                  68	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1863
+                  73	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1832
+                  53	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1859
+                  59	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1908
+
+
+======23 Access======
+
+Time : 1678
+                  50	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1913
+                  71	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1917
+                  62	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1917
+                  67	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1879
+                  72	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1860
+
+
+======23 Access======
+
+Time : 1647
+                  39	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1893
+                  62	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1889
+                  67	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1897
+                  74	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1927
+                  74	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1850
+
+
+======24 Access======
+
+Time : 1751
+                  50	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 1920
+                  78	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  26	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1891
+                  78	L1D_PEND_MISS.FB_FULL
+                   2	MEM_LOAD_RETIRED.FB_HIT
+                  24	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1907
+                  59	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 1923
+                  74	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  25	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1878
+
+
+======25 Access======
+
+Time : 1615
+                  57	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  27	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1885
+                  95	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  26	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1897
+                  92	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  27	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1897
+                  91	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  26	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1927
+                  91	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  27	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1844
+
+
+======26 Access======
+
+Time : 1609
+                  58	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  28	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1714
+                 103	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  28	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1720
+                 106	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  28	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1729
+                 108	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  28	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1775
+                 102	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  28	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1709
+
+
+======27 Access======
+
+Time : 1627
+                  48	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  27	MEM_LOAD_RETIRED.L1_MISS
+                  14	MEM_LOAD_RETIRED.L1_HIT
+Time : 1915
+                 117	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  29	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1909
+                 125	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  29	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1923
+                 118	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  29	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1936
+                 117	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  29	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1862
+
+
+======28 Access======
+
+Time : 1832
+                 120	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2031
+                 125	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2049
+                 128	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2061
+                 130	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1986
+                 132	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1991
+
+
+======28 Access======
+
+Time : 1772
+                  76	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2047
+                 116	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2036
+                 124	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2020
+                 118	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2051
+                 128	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  30	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1985
+
+
+======29 Access======
+
+Time : 1723
+                  81	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  31	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1998
+                 154	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  31	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2008
+                 153	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  31	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1994
+                 154	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  31	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2018
+                 158	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  31	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1948
+
+
+======30 Access======
+
+Time : 1777
+                  51	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  32	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1931
+                 139	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  32	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1975
+                 170	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  32	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1978
+                 159	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  32	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1986
+                 169	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  32	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1929
+
+
+======31 Access======
+
+Time : 1747
+                 105	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2059
+                 191	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2016
+                 139	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1996
+                 148	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  32	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2019
+                 147	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  32	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1967
+
+
+======31 Access======
+
+Time : 1757
+                  82	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2065
+                 174	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2176
+                 176	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2069
+                 166	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2073
+                 189	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2028
+
+
+======32 Access======
+
+Time : 1769
+                 110	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2010
+                 184	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  33	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2020
+                 189	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  34	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2065
+                 199	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  34	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2020
+                 187	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  34	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1976
+
+
+======33 Access======
+
+Time : 1773
+                  66	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  34	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2084
+                 194	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  35	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2077
+                 206	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  35	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2160
+                 204	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  35	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2081
+                 195	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  35	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2035
+
+
+======34 Access======
+
+Time : 1800
+                 122	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  35	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2120
+                 208	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  36	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2071
+                 206	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  36	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2085
+                 210	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  36	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2061
+                 205	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  36	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2027
+
+
+======35 Access======
+
+Time : 1844
+                 104	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  36	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2083
+                 226	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  37	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2124
+                 217	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  37	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2117
+                 215	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  37	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2127
+                 212	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  37	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2059
+
+
+======36 Access======
+
+Time : 1838
+                 140	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  36	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2144
+                 240	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  38	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2121
+                 205	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  38	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2162
+                 232	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  38	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2142
+                 231	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  38	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2081
+
+
+======37 Access======
+
+Time : 1650
+                 196	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1952
+                 265	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1882
+                 250	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1925
+                 250	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1892
+                 257	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 1860
+
+
+======38 Access======
+
+Time : 2051
+                 260	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  40	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 5480
+                 428	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  40	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1974
+                 302	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  40	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 1962
+                 309	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2132
+                 293	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  40	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2719
+
+
+======38 Access======
+
+Time : 1824
+                 169	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  40	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2099
+                 245	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  40	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2148
+                 247	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2069
+                 256	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2126
+                 249	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  38	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2053
+
+
+======39 Access======
+
+Time : 1834
+                 180	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  41	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2172
+                 285	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  40	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2196
+                 283	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  41	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2188
+                 284	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  41	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2176
+                 291	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  41	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2113
+
+
+======40 Access======
+
+Time : 1796
+                 200	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  41	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2126
+                 293	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  42	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2123
+                 290	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  42	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2113
+                 307	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  42	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2148
+                 283	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  42	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2061
+
+
+======41 Access======
+
+Time : 1818
+                 204	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  43	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2128
+                 311	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  42	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2130
+                 334	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  43	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2152
+                 315	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  43	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2089
+                 330	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  43	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2063
+
+
+======42 Access======
+
+Time : 1894
+                 258	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2201
+                 357	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2210
+                 372	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2205
+                 339	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2192
+                 347	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  43	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2140
+
+
+======43 Access======
+
+Time : 1876
+                 280	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2172
+                 353	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2140
+                 333	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2130
+                 355	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2148
+                 347	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2093
+
+
+======44 Access======
+
+Time : 1922
+                 213	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2275
+                 365	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  46	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2259
+                 369	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  46	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2278
+                 365	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2283
+                 384	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  46	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2203
+
+
+======45 Access======
+
+Time : 2049
+                 325	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2318
+                 389	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2269
+                 385	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2274
+                 378	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2292
+                 392	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2240
+
+
+======45 Access======
+
+Time : 1856
+                 250	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  46	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2168
+                 380	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2139
+                 367	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2124
+                 354	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2166
+                 347	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2090
+
+
+======46 Access======
+
+Time : 1829
+                 243	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  48	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2225
+                 407	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2187
+                 409	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2211
+                 379	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  48	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2207
+                 387	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  47	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2131
+
+
+======47 Access======
+
+Time : 1883
+                 289	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2227
+                 439	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2178
+                 407	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2186
+                 407	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2179
+                 379	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2130
+
+
+======48 Access======
+
+Time : 1976
+                 318	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2261
+                 402	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2267
+                 412	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2305
+                 433	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2280
+                 412	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2217
+
+
+======37 Access======
+
+Time : 1866
+                 205	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2154
+                 253	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2202
+                 265	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  38	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2148
+                 245	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2158
+                 260	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2105
+
+
+======37 Access======
+
+Time : 1855
+                 197	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2172
+                 245	L1D_PEND_MISS.FB_FULL
+                   1	MEM_LOAD_RETIRED.FB_HIT
+                  38	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2183
+                 260	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2136
+                 260	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2144
+                 261	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  39	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2098
+
+
+======43 Access======
+
+Time : 1882
+                 215	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2277
+                 372	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2251
+                 353	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2275
+                 371	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2211
+                 332	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  45	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2179
+
+
+======42 Access======
+
+Time : 1820
+                 256	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  43	MEM_LOAD_RETIRED.L1_MISS
+                  13	MEM_LOAD_RETIRED.L1_HIT
+Time : 2168
+                 324	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2156
+                 354	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2116
+                 354	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2124
+                 356	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  44	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2076
+
+
+======47 Access======
+
+Time : 1984
+                 231	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2158
+                 419	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2002
+                 393	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2029
+                 431	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2025
+                 411	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  49	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2039
+
+
+======48 Access======
+
+Time : 2020
+                 295	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2318
+                 456	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2331
+                 465	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2280
+                 456	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Time : 2282
+                 441	L1D_PEND_MISS.FB_FULL
+                   0	MEM_LOAD_RETIRED.FB_HIT
+                  50	MEM_LOAD_RETIRED.L1_MISS
+                  12	MEM_LOAD_RETIRED.L1_HIT
+Avg Time : 2246
+
+

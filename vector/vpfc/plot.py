@@ -34,6 +34,11 @@ PC4802_16_v     = [0,  0,  1,  1,  3,  3,  2,  3,  4,  7,  7,  6,  8, 10,  11,  
 #PCD101 = [  12,  12,  13,  14,  15,  16,  17,  18,  19,  20,  21,  22,  23,  24,  25,  26,  27,  28,  29,  30,  31,  32,  33,  34,  35,  36,  37,  38,  39,  41,  43,  45,  47,  49,  51,  53,  55,  57]
 Time_256      = [1398,1634,1681,1737,1724,1768,1796,1696,1757,1763,1945,1902,1871,1852,1948,1900,1913,4696,2179,1946,2085,2016,2004,2063,1990,2093,2118,2048,2041,2186,1994,2050,2170,2057,2025,2157,2224,2003,2007,2094,2020,1956,2071,2193,2118,2028,2126]
 
+pp_unaligned_first = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,  0,  2,  2,  1, 12, 11, 40, 21, 32, 30, 25,  56,  75, 110, 122,  93,  96, 111, 114,  88, 124, 153, 150, 158, 160, 196, 186, 201, 209, 238, 213, 229, 277, 260]
+pp_unaligned_avg   = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 13, 21, 26, 29, 34, 44, 51, 60, 76, 57, 93, 100, 106, 130, 139, 155, 178, 197, 191, 206, 209, 246, 244, 261, 275, 300, 321, 339, 356, 359, 375, 399, 390, 423]
+
+pp_2_first = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,  0,  2,  1,  0,  5,  9, 15, 45, 39, 50, 57,  58,  48,  76,  81,  51,  82, 110,  66, 122, 104, 140, 196, 169, 180, 200, 204, 258, 215, 213, 250, 243, 289, 295]
+pp_2_avg   = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 13, 19, 22, 25, 33, 35, 46, 55, 74, 78, 91, 105, 117, 120, 154, 164, 175, 188, 200, 207, 216, 231, 250, 252, 284, 292, 323, 352, 350, 365, 367, 397, 407, 412]
 #PC0801 = [   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0]
 #PC4C01 = [   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0]
 #PC4801 = [   0, 170, 328, 560, 787, 965,1168,1486,1741,2039,2418,2778,2959,2115,3314,3675,2273,2840,3387,2312,4007,3433,3669,3852,4482,4428,3347,4232,3556,4251,3452,5530,4747,6446,2262,4102,4322,4506]
@@ -54,8 +59,8 @@ color3 = '#8EC260'
 #ax.plot(plotx_list_16, PC4802_16, color=color1, marker='o', ms=7,  mec=color1, mew=1.5, mfc='white', linestyle='-', label='Scalar')
 #ax.plot(plotx_list_16_v, PC4802_16_v, color=color2, marker='o', ms=7,  mec=color1, mew=1.5, mfc='white', linestyle='-', label='Vector')
 
-ax.plot(plotx_list, PC4802_256, color=color1, marker='o', ms=7,  mec=color1, mew=1.5, mfc='white', linestyle='-', label='Vector')
-ax.plot(plotx_list, PC4802_256_v, color=color2, marker='o', ms=7,  mec=color1, mew=1.5, mfc='white', linestyle='-', label='Vector')
+ax.plot(plotx_list, pp_2_first, color=color1, marker='o', ms=7,  mec=color1, mew=1.5, mfc='white', linestyle='-', label='First')
+ax.plot(plotx_list, pp_2_avg, color=color2, marker='o', ms=7,  mec=color2, mew=1.5, mfc='white', linestyle='-', label='Avg')
 
 ax.legend(bbox_to_anchor=(0.014, 1), loc=3, borderaxespad=0, ncol=3, fontsize='small', frameon=False,
                columnspacing=0.5)
@@ -65,6 +70,6 @@ ax.set_axisbelow(True)
 x_major_locator = MultipleLocator(10)
 ax.xaxis.set_major_locator(x_major_locator)
 plt.xlabel("Num of Load Inst")
-plt.ylabel("FB_FULL_16")
+plt.ylabel("FB_FULL")
 
-plt.savefig('FB_FULL_256.pdf', format='pdf', dpi=1000, bbox_inches='tight')
+plt.savefig('PP_2.pdf', format='pdf', dpi=1000, bbox_inches='tight')

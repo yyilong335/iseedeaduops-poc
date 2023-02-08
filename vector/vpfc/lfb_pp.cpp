@@ -51,17 +51,17 @@ void prime()
 {
     for (int i = 0; i < 32 * 32768; i+=64)
     {
-        array2[i] = i;
+        array2[i] = 1;
     }
-    for (int i = 0; i < 32 * 32768; i+=64)
+    for (int i = 0; i < 32768; i+=64)
     {
-        array3[i] = i;
+        array3[i] = 1;
     }
 }
 
 void lfb_test()
 {
-    printf("======42 Access======\n\n");
+    printf("======48 Access======\n\n");
     unsigned int junk = 0;
     uint64_t time1, time2, time3 = 0, time4;
     int i, j;
@@ -84,55 +84,55 @@ void lfb_test()
             ".intel_syntax noprefix     \n"
             // "push r15   \n"
             // "mov r15, array2            \n"
-            "vpgatherdd %ymm2, [array2 + %ymm1], %ymm0 \n"
-            "vmovdqu %ymm0, [array2 + 0x0]           \n"
-            "vmovdqu %ymm0, [array2 + 0x100]    \n"
-            "vmovdqu %ymm0, [array2 + 0x200]    \n"
-            "vmovdqu %ymm0, [array2 + 0x300]    \n"
-            "vmovdqu %ymm0, [array2 + 0x400]    \n"
-            "vmovdqu %ymm0, [array2 + 0x500]    \n"
-            "vmovdqu %ymm0, [array2 + 0x600]    \n"
-            "vmovdqu %ymm0, [array2 + 0x700]    \n"
-            "vmovdqu %ymm0, [array2 + 0x800]    \n"
-            "vmovdqu %ymm0, [array2 + 0x900]    \n"
-            "vmovdqu %ymm0, [array2 + 0xa00]    \n"
-            "vmovdqu %ymm0, [array2 + 0xb00]    \n"
-            "vmovdqu %ymm0, [array2 + 0xc00]    \n"
-            "vmovdqu %ymm0, [array2 + 0xd00]    \n"
-            "vmovdqu %ymm0, [array2 + 0xe00]    \n"
-            "vmovdqu %ymm0, [array2 + 0xf00]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1000]           \n"
-            "vmovdqu %ymm0, [array2 + 0x1100]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1200]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1300]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1400]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1500]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1600]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1700]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1800]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1900]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1a00]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1b00]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1c00]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1d00]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1e00]    \n"
-            "vmovdqu %ymm0, [array2 + 0x1f00]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2000]           \n"
-            "vmovdqu %ymm0, [array2 + 0x2100]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2200]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2300]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2400]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2500]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2600]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2700]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2800]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2900]    \n"
-            "vmovdqu %ymm0, [array2 + 0x2a00]    \n"
-            // "vmovdqu %ymm0, [array2 + 0x2b00]    \n"
-            // "vmovdqu %ymm0, [array2 + 0x2c00]    \n"
-            // "vmovdqu %ymm0, [array2 + 0x2d00]    \n"
-            // "vmovdqu %ymm0, [array2 + 0x2e00]    \n"
-            // "vmovdqu %ymm0, [array2 + 0x2f00]    \n"
+            // "vpgatherdd %ymm2, [array2 + %ymm1], %ymm0 \n"
+            "vmovdqu %ymm0, [array2 + 0x30]           \n"
+            "vmovdqu %ymm0, [array2 + 0x130]    \n"
+            "vmovdqu %ymm0, [array2 + 0x230]    \n"
+            "vmovdqu %ymm0, [array2 + 0x330]    \n"
+            "vmovdqu %ymm0, [array2 + 0x430]    \n"
+            "vmovdqu %ymm0, [array2 + 0x530]    \n"
+            "vmovdqu %ymm0, [array2 + 0x630]    \n"
+            "vmovdqu %ymm0, [array2 + 0x730]    \n"
+            "vmovdqu %ymm0, [array2 + 0x830]    \n"
+            "vmovdqu %ymm0, [array2 + 0x930]    \n"
+            "vmovdqu %ymm0, [array2 + 0xa30]    \n"
+            "vmovdqu %ymm0, [array2 + 0xb30]    \n"
+            "vmovdqu %ymm0, [array2 + 0xc30]    \n"
+            "vmovdqu %ymm0, [array2 + 0xd30]    \n"
+            "vmovdqu %ymm0, [array2 + 0xe30]    \n"
+            "vmovdqu %ymm0, [array2 + 0xf30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1030]           \n"
+            "vmovdqu %ymm0, [array2 + 0x1130]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1230]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1330]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1430]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1530]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1630]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1730]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1830]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1930]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1a30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1b30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1c30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1d30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1e30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x1f30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2030]           \n"
+            "vmovdqu %ymm0, [array2 + 0x2130]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2230]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2330]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2430]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2530]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2630]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2730]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2830]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2930]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2a30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2b30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2c30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2d30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2e30]    \n"
+            "vmovdqu %ymm0, [array2 + 0x2f30]    \n"
             // "vmovdqu %ymm0, [array2 + 0x300]           \n"
             // "vmovdqu %ymm0, [array2 + 0x310]    \n"
             // "vmovdqu %ymm0, [array2 + 0x320]    \n"
@@ -285,7 +285,8 @@ void init()
 
 void assign_ymm0(__m256i v0)
 {
-    __asm__ volatile("vmovdqa %0, %%ymm0" : : "x"(v0));
+    // __asm__ volatile("vmovdqa %0, %%ymm0" : : "x"(v0));
+    __asm__ volatile("vmovupd ymm0, v0");
 }
 
 int main()
@@ -300,7 +301,7 @@ int main()
     // register uint64_t time1, time2, time3, time4;
     int i, j;
 
-    // lfb_test();
+    lfb_test();
     return 0;
 }
 

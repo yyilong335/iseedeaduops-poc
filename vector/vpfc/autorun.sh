@@ -1,3 +1,3 @@
-g++ lfb.cpp pfc.cpp -o lfb -g -w -no-pie
+g++ lfb_pp.cpp pfc.cpp -o lfb_pp -g -w -no-pie
 
-./lfb >> logcpuid256_vld
+./lfb_pp >> logppunaligned2
